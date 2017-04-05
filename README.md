@@ -1,8 +1,8 @@
 # Laravel Asanak Sms Package
 package's home : [mhrezaei/asanak-sms](https://github.com/mhrezaei/AsanakSms/) 
-[![Latest Stable Version](https://poser.pugx.org/mhrezaei/AsanakSms/v/stable)](https://packagist.org/packages/mhrezaei/AsanakSms)
-[![Total Downloads](https://poser.pugx.org/mhrezaei/AsanakSms/downloads)](https://packagist.org/packages/mhrezaei/AsanakSms)
-[![License](https://poser.pugx.org/mhrezaei/AsanakSms/license)](https://packagist.org/packages/mhrezaei/AsanakSms)
+[![Latest Stable Version](https://poser.pugx.org/mhrezaei/asanak-sms/v/stable)](https://packagist.org/packages/mhrezaei/AsanakSms)
+[![Total Downloads](https://poser.pugx.org/mhrezaei/asanak-sms/downloads)](https://packagist.org/packages/mhrezaei/AsanakSms)
+[![License](https://poser.pugx.org/mhrezaei/asanak-sms/license)](https://packagist.org/packages/mhrezaei/AsanakSms)
 
 
 ----------
