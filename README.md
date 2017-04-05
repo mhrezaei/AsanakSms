@@ -14,7 +14,7 @@ Run below statements on your terminal :
 
 STEP 1 : 
 
-    composer require "mhrezaei/asanak-sms":"dev-master"
+    composer require "mhrezaei/asanak-sms":"1.0.0"
     
 STEP 2 : Add `provider` and `facade` in config/app.php
 
