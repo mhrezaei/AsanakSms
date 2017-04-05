@@ -33,4 +33,9 @@ Step 3:
 
     php artisan vendor:publish --tag=AsanakSmsTag --force
 
-Configuration file is placed in config/asanak-sms.php , open it and enter your Asanak webservice config:
+Configuration file is placed in config/asanak-sms.php , open it and enter your Asanak webservice config
+
+
+**How to use!**:
+
+        AsanakSms::send('mobile_number', 'massage_body');
