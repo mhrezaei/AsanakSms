@@ -1,4 +1,4 @@
-# [Laravel Asanak Sms Package(https://github.com/mhrezaei/AsanakSms/)]
+# Laravel Asanak Sms Package
 
 [![Latest Stable Version](https://poser.pugx.org/mhrezaei/asanak-sms/v/stable)](https://packagist.org/packages/mhrezaei/AsanakSms)
 [![Total Downloads](https://poser.pugx.org/mhrezaei/asanak-sms/downloads)](https://packagist.org/packages/mhrezaei/AsanakSms)
